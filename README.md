@@ -104,7 +104,6 @@ Webhook → Extract from PDF → OpenAI (CV Analysis) → Supabase (Store) → I
 | `summary` | `text` | — |
 | `created_at` | `timestamptz` | Default: `now()` |
 
-> 📸 *(টেবিল স্ট্রাকচার রেফারেন্সের জন্য স্ক্রিনশট দেখুন)*
 
 ---
 
