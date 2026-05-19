@@ -4,4 +4,4 @@
 
 #### Webhook er +sign click koro--->search & click: Extract from File--->Operation: Extract From PDF--->Input Binary Field: resume--->click: Execute step
 
-#### 
+#### Extract from File er +sign click koro---> search & click: open ai---> click: Message a model--->Model daw--->Role: System--->Prompt daw--->Add opton click koro--->Output Format e Json Object daw
