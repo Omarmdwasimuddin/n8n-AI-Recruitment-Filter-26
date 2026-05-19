@@ -4,4 +4,9 @@
 
 #### Webhook er +sign click koro--->search & click: Extract from File--->Operation: Extract From PDF--->Input Binary Field: resume--->click: Execute step
 
-#### Extract from File er +sign click koro---> search & click: open ai---> click: Message a model--->Model daw--->Role: System--->Prompt daw--->Add opton click koro--->Output Format e Json Object daw
+#### Extract from File er +sign click koro---> search & click: open ai---> click: Message a model--->Model daw--->Role: System--->Prompt daw--->Add opton click koro--->Output Format e Json Object daw--->Execute step click koro.
+
+#### supabase e table create koro--->Name daw: CVs
+![](https://imgur.com/KZ7SeQp.png)
+
+#### Message a model er +sign click koro--->search & click: supabase--->click: Create a row--->value set koro & Execute step click koro
