@@ -10,3 +10,6 @@
 ![](https://imgur.com/KZ7SeQp.png)
 
 #### Message a model er +sign click koro--->search & click: supabase--->click: Create a row--->value set koro & Execute step click koro
+
+#### Create a row er +sign click koro--->search & click: if--->condition daw 70% match hole email send hobe
+#### if er true er +sign click koro--->searach & click: gmail--->Send a message clickd koro--->value set koro
